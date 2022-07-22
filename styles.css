@@ -5,4 +5,8 @@
     position: relative;
     max-width: auto;
     height: auto;
+    text-align: center;
+}
+#saver {
+    text-align: center;
 }
