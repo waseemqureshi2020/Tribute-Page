@@ -2,8 +2,7 @@
     text-align : center;
 }
 #image {
-    position: center;
-    max-width: auto;
+    max-width: 100%;
     height: auto;
     border: 5px, 20px, 5px, 20px;
 }
