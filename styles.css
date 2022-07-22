@@ -5,7 +5,7 @@
     position: relative;
     max-width: auto;
     height: auto;
-    text-align: center;
+    align: center;
     border: 5px, 20px, 5px, 20px;
 }
 #saver {
