@@ -6,6 +6,7 @@
     max-width: auto;
     height: auto;
     text-align: center;
+    border: 5px, 20px, 5px, 20px;
 }
 #saver {
     text-align: center;
