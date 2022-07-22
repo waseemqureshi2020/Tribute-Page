@@ -22,6 +22,8 @@ text-align: center;
 }
 #tribute-link {
     text-align: center;
+    href:"https://cdn.freecodecamp.org/testable-projects-fcc/images/tribute-page-main-image.jpg"
+    target:"_blank"
 }
 #tribute-info{
     text-align: center;
